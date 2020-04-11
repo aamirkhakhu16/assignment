@@ -1,0 +1,6 @@
+publicis/sapient/assignment/controller/CricketScoreController.class
+publicis/sapient/assignment/mapper/ResponseMapper.class
+publicis/sapient/assignment/model/WinningTeam.class
+publicis/sapient/assignment/serviceimpl/CricketScoreServiceImpl.class
+publicis/sapient/assignment/AssignmentApplication.class
+publicis/sapient/assignment/service/ICricketScoreService.class
